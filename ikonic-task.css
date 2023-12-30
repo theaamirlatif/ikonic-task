@@ -1238,6 +1238,10 @@ li:hover ul#submenu {
         align-items: center;
         text-align: center;
     }
+    
+    .accreditation-child img{
+        width: 100%;
+    }
 
     .accreditation-child-lay{
         width: 100%;
